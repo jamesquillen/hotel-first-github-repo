@@ -24,3 +24,7 @@
 - command + c = copy
 - command + v = paste
 - command + z = undo
+
+## Additional Git Commands
+- git log = show past commits
+- git log --graph = Show a graphical representation of past commits
