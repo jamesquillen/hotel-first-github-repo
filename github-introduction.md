@@ -28,3 +28,14 @@
 ## Additional Git Commands
 - git log = show past commits
 - git log --graph = Show a graphical representation of past commits
+
+## Markdown tricks
+
+This is an example of a footnote. [^1]
+
+[^1]: This is the footnote.
+
+This is an example of a definition:
+
+git
+: version control software created by Linus
